@@ -6,7 +6,7 @@ Skills I've been learning and mastering (May 2023 - Today):
 
 What's next?
 
-[![My Skills](https://skillicons.dev/icons?i=c,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws)](https://skillicons.dev)
 
 <!---
 giovatro/giovatro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
