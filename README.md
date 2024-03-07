@@ -2,7 +2,7 @@
 
 Skills I've been learning and mastering (May 2023 - Today):
 
-[![My Skills](https://skillicons.dev/icons?i=c,bash,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,c,git)](https://skillicons.dev)
 
 What's next?
 
