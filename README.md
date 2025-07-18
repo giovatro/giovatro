@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @giovatro
+- 👋 Hi, I’m Gio
 
-Skills I've been learning and mastering (May 2023 - Today):
+Tech Skills I've been learning and mastering (May 2023 - Today):
 
-[![My Skills](https://skillicons.dev/icons?i=bash,c,git,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,git,bash,c)](https://skillicons.dev)
 
 
 <!---
